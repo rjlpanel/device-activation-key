@@ -11,6 +11,6 @@
     "username": "masuk123",
     "password": "pass123",
     "expiresAt": "2025-08-24",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
